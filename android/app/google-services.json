@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489605603538",
+    "project_id": "olfatshipping-3a78a",
+    "storage_bucket": "olfatshipping-3a78a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489605603538:android:371b19956cb199a8414d0b",
+        "android_client_info": {
+          "package_name": "com.olfatshipping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489605603538-9done4dpi51g3va7haie8gp4883nv7dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtE5q52yFiBsKLuBDJQOR60bRb6l82-AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489605603538-9done4dpi51g3va7haie8gp4883nv7dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
